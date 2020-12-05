@@ -105,3 +105,5 @@ C:\Projetos\senac-sjrp\senac-sjrp\bin\Debug\net5.0\runtimes\win-x86\native\e_sql
 C:\Projetos\senac-sjrp\senac-sjrp\bin\Debug\net5.0\Humanizer.dll
 C:\Projetos\senac-sjrp\senac-sjrp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Projetos\senac-sjrp\senac-sjrp\obj\Debug\net5.0\Razor\Views\Pie\Index.cshtml.g.cs
+C:\Projetos\senac-sjrp\senac-sjrp\obj\Debug\net5.0\Razor\Views\Pie\Create.cshtml.g.cs
+C:\Projetos\senac-sjrp\senac-sjrp\obj\Debug\net5.0\Razor\Views\Pie\Detail.cshtml.g.cs

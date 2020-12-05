@@ -7,5 +7,6 @@ namespace senac_sjrp.Repository
     {
         IEnumerable<Pie> GetAllPies();
         Pie GetPieById(int pieId);
+        void Save(Pie model);
     }
 }

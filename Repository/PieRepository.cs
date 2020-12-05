@@ -22,5 +22,11 @@ namespace senac_sjrp.Repository
         {
             return this._context.Pies.Where(x => x.Id == pieId).FirstOrDefault();
         }
+
+        public void Save(Pie model)
+        {
+            this._context.Pies.Add(model);
+            this._context.SaveChanges();
+        }
     }
 }

@@ -15633,6 +15633,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Projetos\\senac-sjrp\\senac-sjrp\\Views\\Pie\\Create.cshtml",
+      "TargetPath": "Views\\Pie\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Projetos\\senac-sjrp\\senac-sjrp\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -15640,6 +15645,11 @@
     {
       "FilePath": "c:\\Projetos\\senac-sjrp\\senac-sjrp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projetos\\senac-sjrp\\senac-sjrp\\Views\\Pie\\Detail.cshtml",
+      "TargetPath": "Views\\Pie\\Detail.cshtml",
       "FileKind": "mvc"
     }
   ],
